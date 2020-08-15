@@ -23,7 +23,7 @@ class HtmlManager:
         </html>"""
         newdoc = HtmlDocument(message)
         self.document = newdoc
-        print(newdoc)
+        print(newdoc) dawa
 
         
     def save_html_file(self):
