@@ -1,4 +1,4 @@
-# import boto3
+import boto3
 
 class HtmlDocument:
     #This lets you initialize some HTML for a new document.
