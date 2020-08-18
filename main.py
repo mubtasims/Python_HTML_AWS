@@ -35,7 +35,7 @@ class HtmlManager:
 class AWSmanager:
     def __init__(self):
         self.s3 = boto3.resource('s3')
-    def save_to_s3(self)
+    def save_to_s3(self):
         s3 = boto3.client('s3')
 #   #define connections to boto3 and save file to s3
 #   def save_to_s3():   
